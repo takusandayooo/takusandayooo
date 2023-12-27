@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="left">
   <a href="https://github.com/takusandayooo">
     <img height="20" src="https://komarev.com/ghpvc/?username=takusandayooo" />
@@ -32,3 +33,6 @@ Here are some ideas to get you started:
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
+![](https://raw.githubusercontent.com/takusandayooo/takusandayooo/output/github-contribution-grid-snake.svg)
+
