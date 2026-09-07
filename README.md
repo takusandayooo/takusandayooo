@@ -14,15 +14,6 @@
 - AI・画像認識・自動化を使った、遊び心のある体験を考えるのが好きです
 - 最近は **TypeScript / React / Hono / Python** を中心に学び、つくっています
 
-## Selected projects
-
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| [front-back-template](https://github.com/takusandayooo/front-back-template) | スキーマ駆動で始めるフルスタック開発テンプレート | Hono, Zod, Vite, React, TanStack Query |
-| [posture-guard](https://github.com/takusandayooo/posture-guard) | 作業中の姿勢を見守る、少し変わったユーティリティ | Python |
-| [nomi-connect](https://github.com/takusandayooo/nomi-connect) | 飲み会をもっと気軽に楽しむためのWebアプリ | Web |
-| [PodcastGenerator](https://github.com/takusandayooo/PodcastGenerator) | PDFからポッドキャストを生成するAIアプリ | Python, AI |
-
 ## GitHub activity
 
 <picture>
