@@ -5,13 +5,17 @@
 ## 💻 Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,vite,hono,cloudflareworkers,py,tailwind,bun&theme=dark&perline=8" alt="TypeScript, React, Vite, Hono, Cloudflare Workers, Python, Tailwind CSS, Bun" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vite&theme=dark&perline=3" alt="TypeScript, React, Vite" />
+  <img src="./assets/hono.svg" width="48" height="48" alt="Hono" />
+  <img src="./assets/cloudflare-workers.svg" width="48" height="48" alt="Cloudflare Workers" />
+  <img src="https://skillicons.dev/icons?i=py,tailwind,bun&theme=dark&perline=3" alt="Python, Tailwind CSS, Bun" />
 </p>
 
 ## 🛠 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,githubactions,biome&theme=dark&perline=6" alt="Git, GitHub, Docker, Visual Studio Code, GitHub Actions, Biome" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,githubactions&theme=dark&perline=5" alt="Git, GitHub, Docker, Visual Studio Code, GitHub Actions" />
+  <img src="./assets/biome.svg" width="48" height="48" alt="Biome" />
 </p>
 
 ## ⚡ GitHub Stats
