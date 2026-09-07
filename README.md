@@ -29,7 +29,7 @@
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=notion,discord,gcp,apple&theme=dark&perline=4" alt="Notion, Discord, Google Cloud, macOS" />
-  <img src="./assets/codex.svg" width="48" height="48" alt="OpenAI Codex" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.95.0/icons/codex.svg" width="48" height="48" alt="OpenAI Codex" />
   <img src="./assets/biome.svg" width="48" height="48" alt="Biome" />
 </p>
 
