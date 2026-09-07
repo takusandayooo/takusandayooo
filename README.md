@@ -5,16 +5,31 @@
 ## 💻 Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,vite&theme=dark&perline=3" alt="TypeScript, React, Vite" />
-  <img src="./assets/hono.svg" width="48" height="48" alt="Hono" />
-  <img src="./assets/cloudflare-workers.svg" width="48" height="48" alt="Cloudflare Workers" />
-  <img src="https://skillicons.dev/icons?i=py,tailwind,bun&theme=dark&perline=3" alt="Python, Tailwind CSS, Bun" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,py,go,nodejs&theme=dark&perline=7" alt="TypeScript, JavaScript, HTML, CSS, Python, Go, Node.js" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark&perline=4" alt="React, Next.js, Vite, Tailwind CSS" />
+  <img src="./assets/playwright.svg" width="48" height="48" alt="Playwright" />
 </p>
 
-## 🛠 Tools
+## 🗄️ Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,githubactions&theme=dark&perline=5" alt="Git, GitHub, Docker, Visual Studio Code, GitHub Actions" />
+  <img src="./assets/hono.svg" width="48" height="48" alt="Hono" />
+  <img src="./assets/cloudflare-workers.svg" width="48" height="48" alt="Cloudflare Workers" />
+  <img src="https://skillicons.dev/icons?i=supabase,prisma&theme=dark&perline=2" alt="Supabase, Prisma" />
+  <img src="./assets/drizzle.svg" width="48" height="48" alt="Drizzle ORM" />
+  <img src="https://skillicons.dev/icons?i=bun&theme=dark&perline=1" alt="Bun" />
+</p>
+
+## 🛠 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,githubactions,postman&theme=dark&perline=6" alt="Git, GitHub, Docker, Visual Studio Code, GitHub Actions, Postman" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=notion,discord,gcp,apple&theme=dark&perline=4" alt="Notion, Discord, Google Cloud, macOS" />
+  <img src="./assets/codex.svg" width="48" height="48" alt="OpenAI Codex" />
   <img src="./assets/biome.svg" width="48" height="48" alt="Biome" />
 </p>
 
