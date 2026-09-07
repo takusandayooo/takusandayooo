@@ -1,38 +1,45 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi, I'm Takuya Wada 👋</h1>
+  <p>TypeScript と Python で、毎日を少し便利にするプロダクトをつくっています。</p>
 
-<!--
-**takusandayooo/takusandayooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="left">
-  <a href="https://github.com/takusandayooo">
-    <img height="20" src="https://komarev.com/ghpvc/?username=takusandayooo" />
+  <a href="https://github.com/takusandayooo?tab=followers">
+    <img src="https://img.shields.io/github/followers/takusandayooo?label=Follow&style=flat-square&logo=github" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/takusandayooo">
-    <img height="20" src="https://img.shields.io/github/followers/takusandayooo?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=takusandayooo&style=flat-square&color=0e75b6" alt="Profile views" />
+</div>
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takusandayooo&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takusandayooo&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takusandayooo&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=takusandayooo&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=takusandayooo&theme=gruvbox&utcOffset=9)
+## About me
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+- スキーマ駆動開発を取り入れた、保守しやすいWebアプリケーションづくりに取り組んでいます
+- AI・画像認識・自動化を使った、遊び心のある体験を考えるのが好きです
+- 最近は **TypeScript / React / Hono / Python** を中心に学び、つくっています
 
-![](https://raw.githubusercontent.com/takusandayooo/takusandayooo/output/github-contribution-grid-snake.svg)
+## Selected projects
 
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| [front-back-template](https://github.com/takusandayooo/front-back-template) | スキーマ駆動で始めるフルスタック開発テンプレート | Hono, Zod, Vite, React, TanStack Query |
+| [posture-guard](https://github.com/takusandayooo/posture-guard) | 作業中の姿勢を見守る、少し変わったユーティリティ | Python |
+| [nomi-connect](https://github.com/takusandayooo/nomi-connect) | 飲み会をもっと気軽に楽しむためのWebアプリ | Web |
+| [PodcastGenerator](https://github.com/takusandayooo/PodcastGenerator) | PDFからポッドキャストを生成するAIアプリ | Python, AI |
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takusandayooo&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takusandayooo&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takusandayooo&theme=github" alt="GitHub contribution summary" />
+</picture>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takusandayooo&theme=github" alt="Top languages by repository" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takusandayooo&theme=github" alt="Top languages by commits" height="180" />
+</div>
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/takusandayooo/takusandayooo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/takusandayooo/takusandayooo/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/takusandayooo/takusandayooo/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
