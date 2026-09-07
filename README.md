@@ -9,7 +9,7 @@
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark&perline=4" alt="React, Next.js, Vite, Tailwind CSS" />
-  <img src="./assets/playwright.svg" width="48" height="48" alt="Playwright" />
+  <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" alt="Playwright" />
 </p>
 
 ## 🗄️ Backend & Data
