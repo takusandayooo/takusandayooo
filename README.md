@@ -36,8 +36,7 @@
 ## ⚡ GitHub Stats
 
 <p>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takusandayooo&theme=github_dark" alt="Takuya's GitHub statistics" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takusandayooo&theme=github_dark" alt="Takuya's most used languages" />
+  <img src="./github-metrics.svg" alt="Takuya's GitHub metrics" />
 </p>
 
 ## 🐍 Contribution Snake
